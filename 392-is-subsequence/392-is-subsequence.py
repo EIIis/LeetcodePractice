@@ -19,3 +19,4 @@ class Solution(object):
                 if pointer1 == len(s):
                     return True
         return False
+    
